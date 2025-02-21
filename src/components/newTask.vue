@@ -24,6 +24,8 @@ export default {
         margin: 35px;
     }
 
+
+    
     .form-element{
         outline: none;
         font-size: 2rem;
