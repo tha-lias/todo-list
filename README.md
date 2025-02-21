@@ -1,10 +1,12 @@
 # To-Do List / Lista de Tarefas
  <br>
+
 <div align="center">
-  <a href="https://tha-lias.github.io/todo-list/" target="_blank">
+  <a href="https://tha-lias.github.io/todo-list/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Ver%20esse%20projeto-blue?style=for-the-badge&logo=github&logoColor=white" alt="Ver esse projeto">
   </a>
 </div>
+
 
 
  <br>
