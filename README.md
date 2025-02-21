@@ -6,6 +6,7 @@
   </a>
 </div>
 
+
  <br>
 Este projeto foi desenvolvido como parte do meu processo de **aperfeiçoamento contínuo em Vue.js**. A aplicação permite adicionar, excluir, marcar e desmarcar tarefas, além de acompanhar o progresso em tempo real por meio de uma barra de progresso visual.
 
