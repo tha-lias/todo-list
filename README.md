@@ -1,7 +1,11 @@
 # To-Do List / Lista de Tarefas
-
-
-
+ <br>
+<div align="center">
+  <a href="https://tha-lias.github.io/todo-list/">
+    <img src="https://img.shields.io/badge/Ver%20esse%20projeto-blue?style=for-the-badge&logo=github&logoColor=white" alt="Ver esse projeto">
+  </a>
+</div>
+ <br>
 Este projeto foi desenvolvido como parte do meu processo de **aperfeiçoamento contínuo em Vue.js**. A aplicação permite adicionar, excluir, marcar e desmarcar tarefas, além de acompanhar o progresso em tempo real por meio de uma barra de progresso visual.
 
 <p align="center">
@@ -56,8 +60,6 @@ Esses objetivos ajudaram a consolidar meus conhecimentos em Vue.js e aprimorar m
 ## Demonstração do projeto
 
 https://github.com/user-attachments/assets/a58e3634-11b7-414f-bd34-6d6112ca6bb6
-
-
 
 
 
