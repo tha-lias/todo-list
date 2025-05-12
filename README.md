@@ -10,7 +10,7 @@
 
 
  <br>
-Este projeto foi desenvolvido como parte do meu processo de **aperfeiçoamento contínuo em Vue.js**. A aplicação permite adicionar, excluir, marcar e desmarcar tarefas, além de acompanhar o progresso em tempo real por meio de uma barra de progresso visual.
+Este projeto foi desenvolvido como parte do meu processo de aperfeiçoamento contínuo em Vue.js. A aplicação permite adicionar, excluir, marcar e desmarcar tarefas, além de acompanhar o progresso em tempo real por meio de uma barra de progresso visual.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0c49679f-107c-410d-8a4b-7aec85220835" alt="Imagem da tela do projeto"/>
@@ -18,12 +18,11 @@ Este projeto foi desenvolvido como parte do meu processo de **aperfeiçoamento c
 
 ## Tecnologias Utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=vue,css,js)](https://skillicons.dev)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
-| Tecnologia | Versão |
-|------------|--------|
-| NodeJS     | 14.21.3 |
 
 ## Estrutura Componentizada
 
@@ -36,7 +35,7 @@ O projeto foi **componentizado** para garantir uma arquitetura modular e reutili
 
 Os dados são armazenados no **Local Storage**, garantindo que suas tarefas e progresso sejam preservados, mesmo após recarregamentos.
 
-## Funcionalidades
+## ✨ Funcionalidades
 
 - 🎯 **Adicionar Tarefas**: Basta digitar a descrição e pressionar "enter" ou clicar no "+".
 
